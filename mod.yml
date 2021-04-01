@@ -1,0 +1,34 @@
+title: Shrek Mix
+originalAuthor: TomK1004
+description: The mandatory Shrek over Beast mod
+assets:
+ - name: obj/H_BB010.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/H_BB010.mdlx
+    
+ - name: obj/H_BB010_TSURU.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/H_BB010_TSURU.mdlx
+    
+ - name: obj/P_BB000.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/P_BB000.mdlx
+    
+ - name: obj/P_BB000_BTL.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/P_BB000_BTL.mdlx
+
+ - name: obj/P_BB000_RTN.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/P_BB000_RTN.mdlx
+
+ - name: obj/P_BB000_TSURU.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/P_BB000_TSURU.mdlx
+    
